@@ -5,3 +5,4 @@
 * ### Фабричныый метод (Factory Method)
 * ### Абстрактная фабрика (Abstract Factory)
 * ### Строитель (Builder)
+* ### Прототип (Prototype)
